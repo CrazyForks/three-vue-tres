@@ -105,6 +105,10 @@ export default defineBuildConfig({
                         path: 'https://animationeditor.icegl.cn/#/plugins/animationEditor/index',
                         title: '🐛 草履虫动画编辑器',
                     },
+                    {
+                        path: 'https://materialeditor.icegl.cn/#/plugins/materialEditor/index',
+                        title: '🎨 材质编辑器',
+                    },
                 ],
             },
             {
